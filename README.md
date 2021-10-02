@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kevin3230
-#### I am Java Web beginner
+#### I am a Java Web beginner
 I made some side project. EA103G8 is about camp preservation, and this is co-working with classmates. CHATGROUND is about chat with other people. ChatGround_V2 is a upgrade of CHATGROUND written with spring boot.
 
 Skills: Java / Spring Boot / JS / HTML / CSS
