@@ -1,9 +1,14 @@
-<h1 align=""center>Hi , I'm Kevin3230. 👋</h1>
-<h3>😄Welcome😄</h3>
+### Hi there 👋, my name is Kevin3230
+#### I am Java Web beginner
+I made some side project. EA103G8 is about camp preservation, and this is co-working with classmates. CHATGROUND is about chat with other people. ChatGround_V2 is a upgrade of CHATGROUND written with spring boot.
 
-- 🌱 I’m learning about: Java 、 Spring Boot
-- 📫 How to reach me: mi8dj52@gmail.com
+Skills: Java / Spring Boot / JS / HTML / CSS
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevin3230&theme=vue-dark) -->
+- 🌱 I’m currently learning Java, Spring 
+- 📫 How to reach me: mi8dj52@gmail.com 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin3230)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevin3230)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin3230)](https://github.com/anuraghazra/github-readme-stats)
+
