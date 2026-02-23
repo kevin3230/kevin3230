@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kevin Li
 #### I am a Java Web programmer
-I made some side project. EA103G8 is about camp preservation, and this is co-working with classmates. CHATGROUND is about chat with other people. ChatGround_V2 is a upgrade of CHATGROUND written with spring boot.
+I made some side project. CHATGROUND is about chat with other people. ChatGround_V2 is a upgrade of CHATGROUND written with spring boot.
 
 Skills: Java / Spring Boot / JS / HTML / CSS
 
