@@ -10,5 +10,4 @@ Skills: Java / Spring Boot / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevin3230)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin3230)](https://github.com/anuraghazra/github-readme-stats)
 
